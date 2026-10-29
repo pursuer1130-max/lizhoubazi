@@ -1,0 +1,10 @@
+{
+  "name": "guanxiang-local",
+  "interface": {"displayName": "观象知易本地插件"},
+  "plugins": [{
+    "name": "guanxiang-divination",
+    "source": {"source": "local", "path": "./codex-plugin"},
+    "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+    "category": "Education"
+  }]
+}

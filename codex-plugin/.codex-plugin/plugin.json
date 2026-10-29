@@ -1,0 +1,15 @@
+{
+  "name": "guanxiang-divination",
+  "version": "1.0.0",
+  "description": "中文传统术数文化解读与可复核的离线排盘，含跨模型通用指令。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "观象知易 · 跨模型算命 Skill",
+    "shortDescription": "有出处的八字与易经文化解读，明确输入和计算边界。",
+    "longDescription": "提供离线八字排盘、六爻卦象、梅花报数及已有紫微等命盘解读。代表文献查阅可追溯，区分计算与传统解释。",
+    "developerName": "本地个人定制",
+    "category": "Education",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["使用观象知易，先根据我的问题收集必要输入，再排盘和解读。"]
+  }
+}

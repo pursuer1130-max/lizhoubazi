@@ -1,0 +1,4 @@
+interface:
+  display_name: "观象知易 · 传统术数"
+  short_description: "有出处的八字、易经与梅花易数文化解读，明确输入和排盘约定"
+  default_prompt: "使用 $guanxiang-divination，根据我的问题选择合适方法，先收集必要信息，再给出有依据的传统文化解读。"

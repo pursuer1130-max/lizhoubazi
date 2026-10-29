@@ -1,0 +1,23 @@
+{
+  "completed": "2026-10-28",
+  "source_case_count": 12000,
+  "source_label_exact_matches": 11794,
+  "source_label_differences": 206,
+  "independent_exact_matches": 12000,
+  "runtime_errors": 0,
+  "source_case_sha256": "18574537e7b00df27609b1e1d0703222db709690ac1de9ba8b4c12b4e0cac5cf",
+  "tested_skill_script_sha256": "d2af0c28ca7e518e91ed29dbec1093552777538bd99b60f17a500157252e4eaa",
+  "prediction_accuracy": null,
+  "llm_interpretation_responses_evaluated": 0,
+  "dataset": "czuo03/bazi-calculate-rlvr",
+  "dataset_revision": "990b5a5f67398af0584e5e5427747b7742fc09e1",
+  "conditions": {
+    "calendar": "solar",
+    "utc_offset": "+08:00",
+    "dst_minutes": 0,
+    "time_basis": "civil_standard",
+    "sect": 2
+  },
+  "source_label_agreement_rate": 0.9828333333333333,
+  "independent_engine": "sxtwl 2.0.7"
+}

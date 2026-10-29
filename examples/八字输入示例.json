@@ -1,0 +1,13 @@
+{
+  "method": "bazi",
+  "calendar": "solar",
+  "birth": "2005-12-23T08:37:00",
+  "time_precision": "minute",
+  "birth_city": "北京",
+  "utc_offset": "+08:00",
+  "dst_minutes": 0,
+  "time_basis": "civil_standard",
+  "sect": 2,
+  "gender_convention": null,
+  "focus": "学习与职业方向；虚构测试资料"
+}
